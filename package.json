@@ -1,0 +1,11 @@
+{
+  "name": "SAAM",
+  "version": "0.0.1",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  },
+  "scripts":{
+    "start": "electron ."
+  }
+}
