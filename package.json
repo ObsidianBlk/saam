@@ -5,7 +5,10 @@
   "devDependencies": {
     "electron": "^10.1.2"
   },
-  "scripts":{
+  "scripts": {
     "start": "electron ."
+  },
+  "dependencies": {
+    "sass": "^1.26.11"
   }
 }
